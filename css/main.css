@@ -121,9 +121,15 @@ font-weight: 700;
   align-items: center;
   color: #fff;
   line-height: 1.5em;
-  font-size: 1.6em;
+  font-size: 1.4rem;
   background-color: #f16059;
   height: 300px;
+  text-align: center;
+}
+
+.div-2 {
+    font-size: 2.5rem;
+    background-color: #6a25a1;
 }
 
 
